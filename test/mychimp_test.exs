@@ -1,0 +1,8 @@
+defmodule MychimpTest do
+  use ExUnit.Case
+  doctest Mychimp
+
+  test "the truth" do
+    assert 1 + 1 == 2
+  end
+end
